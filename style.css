@@ -1,0 +1,230 @@
+.header{
+    background-image: url(pic1.png);
+    height: 650px;
+}
+.main{
+    display: flex;
+
+}
+.main2{
+    font-size: 30px;
+    color: black;
+    margin-left: 700px;
+   
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.div{
+    padding-left: 100px;
+}
+img{
+    width: 200px;
+}
+.fiv{
+    width: 190px;
+    height: 50px;
+    background-color: black;
+    border-radius: 30px;
+}
+.six{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+.three{
+    font-size: 50px;
+    color: white;
+  
+}
+.for{
+    width: 450px;
+    color: white;
+    font-size:20px ;
+}
+
+.one{
+    display: flex;
+    justify-content: center;
+    gap: 120px;
+}
+
+/* .seven{
+    width: 300em;
+    height: 300em;
+}
+     */
+.seven{
+     height: 200px;
+}
+.border{
+    background-color: rgb(34, 32, 32);
+    position: relative;
+    height: 650px;
+}
+.img1{
+    position: absolute;
+    left: 400px;
+    top: 80px;
+    width: 300px;
+    
+}
+.text{
+    position: absolute;
+    background-color: white;
+    width: 300px;
+    height: 170px;
+    left: 550px;
+    top: 200px;
+    text-align: center;
+   
+
+    
+}
+
+.p{
+   
+    width: 450px;
+}
+.nine{
+    color: rgb(77, 66, 66);
+    justify-content: center;
+}
+.ten{
+    color:  rgb(77, 66, 66);
+    font-size: 20px;
+}
+.border2{
+    display: flex;
+   
+    width: 1200px;
+    height: 500px;
+  justify-content: center;
+  
+
+  
+}
+/* .img3{
+    gap: 50px;
+    top: 50vh;
+} */
+.gap1{
+    background-color: rgb(34, 32, 32);
+    height: 450px; 
+    width: 700px;
+    border-radius: 40px;
+}
+.gap1 :hover{
+    background-color: black;
+}
+.gap2{
+    background-color: rgb(34, 32, 32);
+    height:  450px; 
+    width: 700px;
+    border-radius: 40px;
+}
+.gap2 :hover{
+    background-color: black;
+}
+.gap3{
+    background-color: rgb(34, 32, 32);
+    height: 450px; 
+    width: 700px;
+    border-radius: 40px;
+}
+.gap3 :hover{
+    background-color: black;
+}
+.font{
+    font-size: 20px;
+    width: 400px;
+    color: white;
+}
+.size{
+    font-size: 20px;
+    color: white;
+}
+.size2{
+    color: grey;
+    font-size: 50px;
+}
+.border3{
+    border: 1px solid;
+   width: 500px;
+   text-align: center;
+   border-radius: 10px;
+   font-size: 20px;
+ 
+}
+
+.border4{
+    background-color: black;
+    height: 500px;
+    display: flex;
+}
+.size4{
+    font-size: 50px;
+    color: white;
+
+}
+.size5{
+    left: 50px;
+    padding-left: 150px;
+    padding-top: 30px;
+}
+.size6{
+    font-size: 50px;
+    color: white;
+    padding-left: 150px;
+}
+.size7{
+    border: 1px solid;
+    color: white;
+    background-color: grey;
+    width: 190px;
+    height: 70px;
+    font-size: 30px;
+    text-align: center;
+  margin-left: 150px;
+  
+}
+.size7 :hover{
+    background-color: white;
+    color: gray;
+}
+.size8{
+    color: white;
+    text-transform: uppercase;
+    padding-left: 50px;
+    justify-content: center;
+    padding-top: 40px;
+}
+.border5{
+    display: flex;
+    gap: 250px;
+    top: 50px;
+}
+.size9{
+    border: 1px solid;
+    color: white;
+    background-color: grey;
+    width: 190px;
+    height: 70px;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 110px;
+
+}
+.size9 :hover{
+background-color: black;
+color: white;
+}
+.size10{
+    background-color: rgb(236, 106, 0);
+    height: 70px;
+    width: 1400px;
+    color: white;
+    text-align: center;
+    
+}
